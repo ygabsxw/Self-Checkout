@@ -40,7 +40,7 @@ const RestaurantHeader = ({ restaurant }: RestaurantHeaderProps) => {
         </Button>
       </div>
     </div>
-  );
+  )
 };
 
 export default RestaurantHeader;
